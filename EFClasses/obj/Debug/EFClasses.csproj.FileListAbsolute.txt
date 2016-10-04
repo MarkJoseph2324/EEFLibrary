@@ -1,0 +1,5 @@
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\EFClasses\bin\Debug\EFClasses.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\EFClasses\bin\Debug\EFClasses.pdb
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\EFClasses\obj\Debug\EFClasses.csprojResolveAssemblyReference.cache
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\EFClasses\obj\Debug\EFClasses.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\EFClasses\obj\Debug\EFClasses.pdb

@@ -1,0 +1,12 @@
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\EntityFramework.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\EntityLibrary.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\EntityLibrary.pdb
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\EntityFramework.xml
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\BusinessLogic\obj\Debug\BusinessLogic.pdb

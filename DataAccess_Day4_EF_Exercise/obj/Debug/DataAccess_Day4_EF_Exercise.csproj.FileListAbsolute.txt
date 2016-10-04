@@ -1,0 +1,14 @@
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\DataAccess_Day4_EF_Exercise.exe.config
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\DataAccess_Day4_EF_Exercise.exe
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\DataAccess_Day4_EF_Exercise.pdb
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\BusinessLogic.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\EntityFramework.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\EntityLibrary.dll
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\BusinessLogic.pdb
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\EntityLibrary.pdb
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\EntityFramework.xml
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\obj\Debug\DataAccess_Day4_EF_Exercise.csprojResolveAssemblyReference.cache
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\obj\Debug\DataAccess_Day4_EF_Exercise.exe
+c:\users\bootcamp\documents\visual studio 2015\Projects\DataAccess_Day4_EF_Exercise\DataAccess_Day4_EF_Exercise\obj\Debug\DataAccess_Day4_EF_Exercise.pdb
